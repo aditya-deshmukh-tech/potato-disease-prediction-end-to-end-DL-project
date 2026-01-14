@@ -1,0 +1,10 @@
+fastapi
+jinja2
+uvicorn
+pydantic
+pydantic-settings
+pytest
+python-multipart
+tensorflow==2.20.0
+numpy
+starlette
