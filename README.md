@@ -5,19 +5,28 @@ This is Potato Disease Classification End to End Deep Learning project Developed
 ## Requirements
 Python 3.12.3
 
+## Dataset for notebook
+https://www.kaggle.com/datasets/muhammadardiputra/potato-leaf-disease-dataset
+
 ## How to install and run
 ### Clone the repo:
 ```shell
-git clone https://github.com/aditya-deshmukh-tech/customer-churn-end-to-end-ML-project
+git clone https://github.com/aditya-deshmukh-tech/potato-disease-prediction-end-to-end-DL-project.git
 ```
 
 ```shell
-cd customer-churn-end-to-end-ML-project
+cd potato-disease-prediction-end-to-end-DL-project
 ```
 
-### create virtual environment
+### create virtual environment (linux with python 3.12.3)
 ```shell
-python -m venv .venv
+python3 -m venv .venv
+```
+
+### create virtual environment (windows with python 3.12.3)
+here download python `3.12.3` specifically and use that
+```batch
+py -3.12.3 -m venv .venv
 ```
 
 ### Activate virtual environment (linux)
